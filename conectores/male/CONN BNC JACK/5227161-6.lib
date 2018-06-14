@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 5227161-6
+#
+DEF 5227161-6 U 0 40 Y Y 1 F N
+F0 "U" -50 350 60 H V C CNN
+F1 "5227161-6" 0 450 60 H V C CNN
+F2 "" -150 250 60 H I C CNN
+F3 "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/5227161-6/A32259-ND/811157" 3050 0 60 H I C CNN
+F4 "A32259-ND" 700 50 60 H I C CNN "Digi-Key Part Number"
+F5 "5227161-6" 700 150 60 H I C CNN "Manufacturer Part Number"
+F6 "CONN BNC JACK R/A 50 OHM PCB" 1250 250 60 H I C CNN "Description"
+DRAW
+S -200 300 100 -50 0 1 0 N
+X 1 1 -400 200 200 R 50 50 1 1 I
+X 2 2 -400 50 200 R 50 50 1 1 I
+X 3 3 300 200 200 L 50 50 1 1 I
+X 4 4 300 50 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

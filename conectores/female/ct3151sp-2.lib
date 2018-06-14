@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# CT3151SP-2
+#
+DEF CT3151SP-2 U 0 40 Y Y 1 F N
+F0 "U" 0 150 60 H V C CNN
+F1 "CT3151SP-2" 50 250 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "https://www.digikey.com/products/en?keywords=CT3151-0" 1800 0 60 H I C CNN
+F4 "BKCT3151-0-ND" 800 200 60 H I C CNN "Digi-Key Part Number"
+F5 "CT3151-0" 650 100 60 H I C CNN "Manufacturer Part Number"
+F6 "BANANA JACK PCB MOUNT" 1000 300 60 H I C CNN "Description"
+DRAW
+S -100 100 150 -100 0 1 0 N
+X 1 1 350 50 200 L 50 50 1 1 I
+X 2 2 350 -50 200 L 50 50 1 1 I
+X 3 3 -300 50 200 R 50 50 1 1 I
+X 4 4 -300 -50 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
